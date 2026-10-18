@@ -1,0 +1,5 @@
+{
+  "name": "hello",
+  "sources": ["main.c"],
+  "text_asset": {"symbol": "hello_bitmap", "text": "Hello World", "width": 176, "height": 40, "font_size": 22}
+}

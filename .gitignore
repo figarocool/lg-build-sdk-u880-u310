@@ -1,0 +1,10 @@
+/.venv/
+/templates/
+**/build/
+__pycache__/
+*.pyc
+*.pxo
+*.upx
+*.bin
+*.elf
+*.zip
